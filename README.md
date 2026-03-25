@@ -17,3 +17,5 @@ This project simulates EMG signal processing and gesture recognition using Pytho
 - Matplotlib
 
 Author: SS
+
+           
